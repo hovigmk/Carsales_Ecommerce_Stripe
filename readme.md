@@ -2,7 +2,7 @@
 
 ## Description
 
-Classic Whipz is a car e-commerce site that allows you to buy and sell classic cars. The site contains cars that are labeled vintage to newly classic ones. The process is once the buyer selects to buy, they pay 10% of the car value then it the connects the buyer to the seller. Both the buyer and the seller agree on a rendezvous.
+Classic Whipz is a car e-commerce site that allows you to buy and sell classic cars. The site contains cars that are labeled vintage to newly classic ones. The process is once the buyer selects to buy, they pay 10% of the car value then it the connects the buyer to the seller. Both the buyer and the seller agree on a meeting date to seal the deal.
 
 ## Installation
 
