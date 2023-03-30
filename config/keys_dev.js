@@ -4,3 +4,7 @@
 //   stripeSecretKey:
 //     "sk_test_51MTxWlJ6ot15kLDDiKe2XEiJQa28MyCdKPmJoazPK42vJeExoAsbpqJRIiwOPYpJCxIFqpYyE5UDpihvafu7LXqK00ZjzLCkqQ",
 // };
+module.exports = {
+  stripePublishableKey: process.env.STRIPE_PUBLISHABLE_KEY,
+  stripeSecretKey: process.env.STRIPE_SECRET_KEY,
+};
